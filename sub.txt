@@ -1,1 +1,1 @@
-subtract
+subtract of 2 numbers
